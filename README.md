@@ -51,5 +51,17 @@ This project implements an image augmentation pipeline and face detection system
   
   ```bash
   python src/detector.py --test --m path/to/model
+  ```
+
+  ## Example
+  
+  ### Image Augmentation Example:
+  - **Input**: `example_image.jpg`
+  - **Output**: Augmented images saved with various transformations like brightened, darkened, and desaturated versions.
+  
+  ### Face Detection Example:
+  - **Input**: Image with faces.
+  - **Output**: Image annotated with bounding boxes around detected faces and labels for recognized ones.
+
 
 
