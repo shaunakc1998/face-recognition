@@ -42,4 +42,13 @@ This project implements an image augmentation pipeline and face detection system
   
   ```bash
   python src/Processing_and_Augmentation_Pipeline.py --image_path path/to/image --output_folder path/to/output
+  ```
+
+  ### 2. Face Detection and Recognition
+
+  To run face detection and recognition:
+  
+  ```bash
+  python src/detector.py --test --m path/to/model
+
 
