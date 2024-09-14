@@ -32,7 +32,7 @@ This project implements an image augmentation pipeline and face detection system
 
 3. **Install RetinaFace** (optional, if using face detection):
   ```bash
-  pip install retinaface
+    pip install retinaface
   ```
   ## Usage
   
