@@ -31,5 +31,15 @@ This project implements an image augmentation pipeline and face detection system
    pip install -r requirements.txt
 
 3. **Install RetinaFace** (optional, if using face detection):
+  ```bash
+    pip install retinaface
+
+## Usage
+
+### 1. Image Augmentation
+
+To run the image augmentation pipeline:
+
 ```bash
-  pip install retinaface
+python src/Processing_and_Augmentation_Pipeline.py --image_path path/to/image --output_folder path/to/output
+
