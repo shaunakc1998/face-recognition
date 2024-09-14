@@ -27,7 +27,7 @@ This project implements an image augmentation pipeline and face detection system
    cd repo-name
 
 1. **Install the Dependencies**: To install the necessary Python packages, use:
-2. ```bash
+   ```bash
    pip install -r requirements.txt
 
 3. **Install RetinaFace** (optional, if using face detection):
