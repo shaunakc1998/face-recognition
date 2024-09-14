@@ -26,7 +26,7 @@ This project implements an image augmentation pipeline and face detection system
    git clone https://github.com/your-username/face-recognition.git
    cd repo-name
 
-1. **Install the Dependencies**: To install the necessary Python packages, use:
+2. **Install the Dependencies**: To install the necessary Python packages, use:
    ```bash
    pip install -r requirements.txt
 
@@ -34,6 +34,7 @@ This project implements an image augmentation pipeline and face detection system
   ```bash
     pip install retinaface
   ```
+
   ## Usage
   
   ### 1. Image Augmentation
